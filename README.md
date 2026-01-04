@@ -72,9 +72,3 @@ Pre-Seed investments and hands-on support for digital startups. Portfolio includ
 - Pre-Seed investment opportunities
 
 **Interested?** [Let's talk.](mailto:kim@neuhauss-capital.com)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=katmai149&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
