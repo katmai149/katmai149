@@ -56,22 +56,6 @@ Pre-Seed investments and hands-on support for digital startups. Portfolio includ
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katmai149&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=katmai149&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katmai149&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Connect
 
 [![Website](https://img.shields.io/badge/xunil.de-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xunil.de)
