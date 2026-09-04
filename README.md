@@ -13,11 +13,8 @@ AI-native consulting for the German Mittelstand. We deliver enterprise-quality C
 
 **Focus Areas:** Cloud Excellence | Cyber Resilience | AI Transformation | Digital Sovereignty
 
-### [Cleanz Technologies](https://cleanz.tech) — Co-Founder
-The world's first patented IoT shoe washing machine. Automated, scalable footwear cleaning technology — because 380 million pairs of shoes are discarded annually in Germany alone.
-
 ### [Neuhauss Capital](https://neuhauss-capital.com) — Founder
-Pre-Seed investments and hands-on support for digital startups. Portfolio includes Cleanz, alfatier, TINY Technologies, and FlowFox.
+Pre-Seed investments and hands-on support for digital startups. Portfolio includes alfatier, Cleo Solutions, and FlowFox.
 
 ---
 
@@ -61,6 +58,7 @@ Pre-Seed investments and hands-on support for digital startups. Portfolio includ
 [![Website](https://img.shields.io/badge/xunil.de-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xunil.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimneuhauss)
 [![alfatier](https://img.shields.io/badge/alfatier.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfatier)
+[![Neuhauss Capital](https://img.shields.io/badge/neuhauss--capital.com-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neuhauss-capital.com)
 
 ---
 
